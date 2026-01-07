@@ -35,7 +35,7 @@ dependencies {
 
     // Swagger
     implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.7.0'
-
+    implementation("org.reactivestreams:reactive-streams")
     implementation 'me.paulschwarz:spring-dotenv:4.0.0'
 }
 
